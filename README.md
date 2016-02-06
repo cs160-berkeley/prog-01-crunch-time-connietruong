@@ -1,22 +1,30 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+Calorie Monitor takes in user's physical information (ex. Age, Sex, etc.) and converts the amount of units from one exercise to the equivalent units of another exercise, calories to equivalent units of every exercise, vice versa, and totals the number of calories burned for multiple exercises based on the inputted information.
+
+The apk is in the app/build/apk folder.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Connie Truong ([ctruong1337@berkeley.edu](mailto:ctruong1337@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [Calorie Monitor Demo] (https://youtu.be/-UikWgvxOZk)
 
 ## Screenshots
 
 <img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/need_profile.png" height="400" alt="Screenshot"/>
+<img src="screenshots/select_profile.png" height="400" alt="Screenshot"/>
+<img src="screenshots/profile_page.png" height="400" alt="Screenshot"/>
+<img src="screenshots/convert_calories.png" height="400" alt="Screenshot"/>
+<img src="screenshots/convert_exercise.png" height="400" alt="Screenshot"/>
+<img src="screenshots/calculate_calories.png" height="400" alt="Screenshot"/>
+<img src="screenshots/calculate_total.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
-
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
+* The formula used to convert calories and conversion rates for rep-based exercises was derived from these sites:
+* http://www.shapesense.com/fitness-exercise/calculators/activity-based-calorie-burn-calculator.aspx
+* http://www.topendsports.com/testing/tests/home-pushup.htm
